@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Smith Marsh",
+        "designation": "Expert Engineer",
+        "img": "https://i.ibb.co/NxYrPnh/4.jpg",
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com"
+    },
+    {
+        "name": "Kevin Cooper",
+        "designation": "Expert Engineer",
+        "img": "https://i.ibb.co/d2gkZWp/3.jpg",
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com"
+    },
+    {
+        "name": "Shane Adams",
+        "designation": "Expert Engineer",
+        "img": "https://i.ibb.co/YR3LmxL/2.jpg",
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com"
+    },
+    {
+        "name": "Devon Oscar",
+        "designation": "Expert Engineer",
+        "img": "https://i.ibb.co/m4zChXC/1.jpg",
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com"
+    }
+]
