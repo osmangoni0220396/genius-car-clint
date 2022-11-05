@@ -1,0 +1,44 @@
+[
+    {
+        "productName": "Cools Led Light",
+        "rating": 5,
+        "price": 20,
+        "img": "https://ibb.co/M8TsB3G",
+        "productId": 1
+    },
+    {
+        "productName": "Car Engine Plug",
+        "rating": 5,
+        "price": 15,
+        "img": "https://ibb.co/0n4VwQw",
+        "productId": 2
+    },
+    {
+        "productName": "Car Engine Motor",
+        "rating": 5,
+        "price": 18,
+        "img": "https://ibb.co/jJySTg9",
+        "productId": 3
+    },
+    {
+        "productName": "Car Engine Plug",
+        "rating": 5,
+        "price": 22,
+        "img": "https://ibb.co/S3yq5GB",
+        "productId": 4
+    },
+    {
+        "productName": "Circle Red",
+        "rating": 5,
+        "price": 21,
+        "img": "https://ibb.co/JjbsfFW",
+        "productId": 5
+    },
+    {
+        "productName": "Motor Parts",
+        "rating": 5,
+        "price": 27,
+        "img": "https://ibb.co/7vzqKnx",
+        "productId": 6
+    }
+]
