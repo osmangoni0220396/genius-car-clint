@@ -21,9 +21,9 @@ const OurTeam = () => {
         </p>
       </div>
       <div>
-        <Carousel cols={3} rows={1} gap={10} loop>
+        <Carousel cols={3} rows={1} gap={2} loop>
           {teamMembers.map((teamMember) => (
-            <Carousel.Item>
+            <Carousel.Item key={teamMember._id}>
               <div className="card card-compact w-96 bg-base-100 shadow-xl">
                 <figure>
                   <img src={teamMember.img} alt="Shoes" className="h-60" />
